@@ -1,0 +1,22 @@
+{
+  "run_datetime": "2026-07-07T16:02:48",
+  "ukceh_gpkg": "/content/drive/MyDrive/Dissertation/ukceh_east_anglia/lccm-2022_6395063/lccm-2022_6395063.gpkg",
+  "ukceh_layer": "crop_map_2022",
+  "boundary_path": "/content/drive/MyDrive/Dissertation/data/geo_data/selected_areas/East_Anglia_Boundary.geojson",
+  "model_points_gpkg": "/content/drive/MyDrive/Dissertation/3_spatial_error_analysis/outputs/matched_test_predictions_spatial_error.gpkg",
+  "grid_size_m": 10000,
+  "min_selected_crop_area_ha": 500,
+  "retained_grid_cells": 144,
+  "chosen_k": 3,
+  "analysis_classes": [
+    "Winter wheat",
+    "Winter barley",
+    "Spring barley",
+    "Beet (sugar beet / fodder beet)",
+    "Maize",
+    "Oilseed rape",
+    "Potatoes",
+    "Pulses / field beans and peas"
+  ],
+  "interpretation_note": "UKCEH used as a secondary crop-map product for crop-profile aggregation, not ground truth."
+}

@@ -1,0 +1,3 @@
+cluster_id,cluster_label,n_ukceh_labelled_samples,crome_ukceh_disagreement_rate
+1.0,winter wheat 51%; winter barley 11%; spring barley 9%,885,0.1096045197740113
+2.0,winter wheat 28%; winter barley 20%; beet sugar beet   fodder beet 14%,547,0.12248628884826325

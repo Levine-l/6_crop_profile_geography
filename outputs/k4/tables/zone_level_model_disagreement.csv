@@ -1,0 +1,5 @@
+cluster_id,cluster_label,n_test_samples,s2_disagreement_rate,s1s2_disagreement_rate,sar_disagreement_reduction
+1.0,winter wheat 36%; winter barley 17%; spring barley 12%,528,0.30492424242424243,0.22348484848484848,0.08143939393939395
+2.0,winter barley 26%; winter wheat 19%; spring barley 16%,255,0.27450980392156865,0.20392156862745098,0.07058823529411767
+3.0,winter wheat 50%; beet sugar beet   fodder beet 12%; winter barley 8%,359,0.2924791086350975,0.20891364902506965,0.08356545961002787
+4.0,winter wheat 54%; winter barley 12%; oilseed rape 9%,575,0.2591304347826087,0.19826086956521738,0.06086956521739134
